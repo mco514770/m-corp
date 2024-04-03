@@ -1,0 +1,16 @@
+[27-Jun-2021 00:37:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[20-Oct-2021 22:32:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[27-May-2022 05:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php on line 12
+[18-Jul-2022 11:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentynineteen/404.php on line 12

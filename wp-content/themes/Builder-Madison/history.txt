@@ -1,0 +1,53 @@
+0.0.1 - 2014-05-08 - Cody Smith
+	Initial Commit Version
+5.0.0 - 2014-05-12 - Cody Smith
+	Initial Release Version
+5.0.1 - 2014-05-12 - Cody Smith
+	Updated screenshot
+5.0.2 - 2014-05-13 - Cody Smith
+	Added a check for is_exchange_page function
+5.0.3 - 2014-07-02 - Cody Smith
+	removed display:inline-block from .it-featured-image a (caused rendering issues)
+5.0.4 - 2014-07-28 - Packaging Bot (lib/builder-core)
+	Fixed responsive video script error that prevented the script from working properly on some sites.
+5.0.5 - 2014-08-27 - Cody Smith
+	Fixed responsive column check to only occur once in functions.php file
+5.0.6 - 2014-09-11 - Packaging Bot (lib/builder-core)
+	Add support for ContactBuddy
+5.0.7 - 2014-10-22 - Packaging Bot (lib/builder-core)
+	Bug Fix: Updated URL used to load the Start Here page.
+5.0.8 - 2014-11-14 - Packaging Bot (lib/builder-core)
+	Enhancement: Reduced caching to allow updates to appear more quickly.
+	Enhancement: Authenticating users now uses the new authentication system.
+5.0.9 - 2015-03-24 - Packaging Bot (lib/builder-core)
+	WordPress Compatibility: Added compatibility for new split terms in WordPress 4.2.
+	Bug Fix: The Navigation Module now properly sorts Navigation Type setting options.
+5.0.10 - 2015-04-23 - Packaging Bot (lib/builder-core)
+	Compatibility Fix: Updated plugin and theme update data format to match changes in WordPress 4.2.
+5.0.11 - 2015-06-29 - Packaging Bot (lib/builder-core)
+	Security Fix: Fixed a potential Remote Code Execution (RCE) security hole caused by unsanitized inputs for resizing certain kinds of images and generating zip files. Exploiting this flaw would require third-party code or a privileged WordPress user. Thanks to Ryan Satterfield (http://planetzuda.com) for helping to identify this issue.
+	Bug Fix: Fixed index.php files being added to the root of zip files created with ITZip.
+	Enhancement: Improved the form-handling API to handle complex forms with nested groups.
+	Enhancement: Better handling of non-ASCII, non-UTF8 characters in debug output.
+5.0.12 - 2015-07-07 - Packaging Bot (lib/builder-core)
+	WordPress Compatibility: Updated widgets to no longer use PHP4-style constructors in order to be compatible with their deprecation in WordPress 4.3.
+5.0.13 - 2015-07-14 - Packaging Bot (lib/builder-core)
+	Bug Fix: Dropdowns with multiple levels of options now default to the current value as expected.
+	Enhancement: Updated link to iThemes support.
+5.0.14 - 2015-08-27 - Chris Jean
+	Updated links in footer.php to use rel="nofollow".
+5.0.15 - 2015-10-26 - Packaging Bot (lib/builder-core)
+	Compatibility Fix: Updated constructors to prevent warnings in PHP 7 while maintaining backwards compatibility.
+5.0.16 - 2015-10-27 - Packaging Bot (lib/builder-core)
+	Compatibility Fix: Additional changes to ensure PHP 7 compatibility.
+	Compatibility Fix: Added backwards-compatible code to fix compatibility with Pods/Builder integration.
+5.1.0 - 2015-11-04 - Cody Smith
+	Compatibility Fix: Updated constructors to prevent warnings in PHP 7 while maintaining backwards compatibility.
+5.1.1 - 2015-11-16 - Packaging Bot (lib/builder-core)
+	Bug Fix: Fixed URL to file path and file path to URL conversions on multisite installations where the site's absolute path may vary.
+	Enhancement: Added responsive support for WordPress 4.4's embedded content feature.
+5.1.2 - 2015-12-02 - Ronald van Weerd
+	Updated archive.php and search.php to make 'page' in title translatable
+	Updated single.php to make previous and next post links translatable
+	Changed h3 to h1 for title on single.php
+	Updated functions.php to wp-enqueue google fonts rather than including fonts in the stylesheet

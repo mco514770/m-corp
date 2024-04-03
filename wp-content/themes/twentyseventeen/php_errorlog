@@ -1,0 +1,60 @@
+[22-Oct-2019 19:44:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Nov-2019 07:30:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Nov-2019 08:36:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Nov-2019 13:11:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[13-Dec-2019 02:05:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/functions.php on line 16
+[26-Feb-2020 14:59:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Dec-2020 12:43:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[20-Jan-2021 23:56:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[30-Jan-2021 15:31:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[02-Mar-2021 23:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[10-Apr-2021 19:28:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[12-May-2021 11:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[17-May-2021 04:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[03-Jul-2021 10:46:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Oct-2021 06:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

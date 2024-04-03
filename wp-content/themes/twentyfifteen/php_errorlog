@@ -1,0 +1,76 @@
+[09-Nov-2019 11:06:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[11-Nov-2019 02:36:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[11-Nov-2019 19:07:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[11-Nov-2019 19:07:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[29-Nov-2019 18:51:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[29-Nov-2019 21:16:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[29-Nov-2019 22:25:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[14-Dec-2019 20:58:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[27-Dec-2019 23:06:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[27-Dec-2019 23:06:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[30-Dec-2020 23:42:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[01-Jan-2021 19:21:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[08-Jan-2021 11:58:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[20-Jan-2021 22:01:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[30-Jan-2021 20:48:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[30-Jan-2021 20:48:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/thenig18/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/thenig18/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[02-Mar-2021 23:24:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[13-Oct-2021 18:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[12-Apr-2022 17:56:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/thenightbaker.com/public_html/wp-content/themes/twentyfifteen/404.php on line 10

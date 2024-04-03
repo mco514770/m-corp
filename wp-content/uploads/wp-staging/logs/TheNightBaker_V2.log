@@ -1,0 +1,978 @@
+[INFO]-[2019/04/28 20:23:55] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/04/28 20:23:55] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2019/04/28 20:23:55] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/04/28 20:23:55] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:55] DB Copy: Creating table wpstg0_comments
+[INFO]-[2019/04/28 20:23:55] DB Copy: wp_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:55] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/04/28 20:23:55] DB Copy: Creating table wpstg0_links
+[INFO]-[2019/04/28 20:23:56] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/04/28 20:23:56] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:56] DB Copy: Creating table wpstg0_options
+[INFO]-[2019/04/28 20:23:56] DB Copy: wp_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:56] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/04/28 20:23:56] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:56] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2019/04/28 20:23:56] DB Copy: wp_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:57] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/04/28 20:23:57] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:57] DB Copy: Creating table wpstg0_posts
+[INFO]-[2019/04/28 20:23:57] DB Copy: wp_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:57] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/04/28 20:23:57] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:57] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2019/04/28 20:23:57] DB Copy: wp_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:57] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/04/28 20:23:57] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:57] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2019/04/28 20:23:57] DB Copy: wp_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_termmeta as wpstg0_termmeta from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_termmeta as wpstg0_termmeta from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_terms
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:58] DB Copy: Creating table wpstg0_users
+[INFO]-[2019/04/28 20:23:58] DB Copy: wp_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wc_download_log
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wc_download_log
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wc_product_meta_lookup
+[INFO]-[2019/04/28 20:23:59] DB Copy: wp_wc_product_meta_lookup as wpstg0_wc_product_meta_lookup from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wc_product_meta_lookup
+[INFO]-[2019/04/28 20:23:59] DB Copy: wp_wc_product_meta_lookup as wpstg0_wc_product_meta_lookup from 0 to 10000 records
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wc_webhooks
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wc_webhooks
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wfBadLeechers
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wfBadLeechers
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wfBlockedCommentLog
+[INFO]-[2019/04/28 20:23:59] DB Copy: Creating table wpstg0_wfBlockedCommentLog
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlockedIPLog
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlockedIPLog
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlocks
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlocks
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlocks7
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlocks7
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlocksAdv
+[INFO]-[2019/04/28 20:24:00] DB Copy: Creating table wpstg0_wfBlocksAdv
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfConfig
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfConfig as wpstg0_wfConfig from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfConfig
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfConfig as wpstg0_wfConfig from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfCrawlers
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfCrawlers as wpstg0_wfCrawlers from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfCrawlers
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfCrawlers as wpstg0_wfCrawlers from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfFileChanges
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfFileChanges
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfFileMods
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfFileMods as wpstg0_wfFileMods from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfFileMods
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfFileMods as wpstg0_wfFileMods from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfHits
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfHits as wpstg0_wfHits from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:01] DB Copy: Creating table wpstg0_wfHits
+[INFO]-[2019/04/28 20:24:01] DB Copy: wp_wfHits as wpstg0_wfHits from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:02] DB Copy: Creating table wpstg0_wfHoover
+[INFO]-[2019/04/28 20:24:02] DB Copy: Creating table wpstg0_wfHoover
+[INFO]-[2019/04/28 20:24:02] DB Copy: Creating table wpstg0_wfIssues
+[INFO]-[2019/04/28 20:24:02] DB Copy: wp_wfIssues as wpstg0_wfIssues from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:02] DB Copy: Creating table wpstg0_wfIssues
+[INFO]-[2019/04/28 20:24:02] DB Copy: wp_wfIssues as wpstg0_wfIssues from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:02] DB Copy: Creating table wpstg0_wfKnownFileList
+[INFO]-[2019/04/28 20:24:02] DB Copy: wp_wfKnownFileList as wpstg0_wfKnownFileList from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:02] DB Copy: Creating table wpstg0_wfKnownFileList
+[INFO]-[2019/04/28 20:24:02] DB Copy: wp_wfKnownFileList as wpstg0_wfKnownFileList from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLeechers
+[INFO]-[2019/04/28 20:24:03] DB Copy: wp_wfLeechers as wpstg0_wfLeechers from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLeechers
+[INFO]-[2019/04/28 20:24:03] DB Copy: wp_wfLeechers as wpstg0_wfLeechers from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLiveTrafficHuman
+[INFO]-[2019/04/28 20:24:03] DB Copy: wp_wfLiveTrafficHuman as wpstg0_wfLiveTrafficHuman from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLiveTrafficHuman
+[INFO]-[2019/04/28 20:24:03] DB Copy: wp_wfLiveTrafficHuman as wpstg0_wfLiveTrafficHuman from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLockedOut
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLockedOut
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLocs
+[INFO]-[2019/04/28 20:24:03] DB Copy: wp_wfLocs as wpstg0_wfLocs from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:03] DB Copy: Creating table wpstg0_wfLocs
+[INFO]-[2019/04/28 20:24:03] DB Copy: wp_wfLocs as wpstg0_wfLocs from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfLogins
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfLogins as wpstg0_wfLogins from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfLogins
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfLogins as wpstg0_wfLogins from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfNet404s
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfNet404s
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfNotifications
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfNotifications as wpstg0_wfNotifications from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfNotifications
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfNotifications as wpstg0_wfNotifications from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfPendingIssues
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfPendingIssues as wpstg0_wfPendingIssues from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfPendingIssues
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfPendingIssues as wpstg0_wfPendingIssues from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfReverseCache
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfReverseCache as wpstg0_wfReverseCache from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:04] DB Copy: Creating table wpstg0_wfReverseCache
+[INFO]-[2019/04/28 20:24:04] DB Copy: wp_wfReverseCache as wpstg0_wfReverseCache from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfSNIPCache
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfSNIPCache
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfScanners
+[INFO]-[2019/04/28 20:24:05] DB Copy: wp_wfScanners as wpstg0_wfScanners from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfScanners
+[INFO]-[2019/04/28 20:24:05] DB Copy: wp_wfScanners as wpstg0_wfScanners from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfStatus
+[INFO]-[2019/04/28 20:24:05] DB Copy: wp_wfStatus as wpstg0_wfStatus from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfStatus
+[INFO]-[2019/04/28 20:24:05] DB Copy: wp_wfStatus as wpstg0_wfStatus from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfThrottleLog
+[INFO]-[2019/04/28 20:24:05] DB Copy: Creating table wpstg0_wfThrottleLog
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_wfTrafficRates
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_wfTrafficRates
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_wfVulnScanners
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_wfVulnScanners
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_woocommerce_api_keys
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_woocommerce_attribute_taxonomies
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2019/04/28 20:24:06] DB Copy: Creating table wpstg0_woocommerce_downloadable_product_permissions
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_log
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_order_itemmeta
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_order_items
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_payment_tokenmeta
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2019/04/28 20:24:07] DB Copy: Creating table wpstg0_woocommerce_payment_tokens
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2019/04/28 20:24:08] DB Copy: wp_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_sessions
+[INFO]-[2019/04/28 20:24:08] DB Copy: wp_woocommerce_sessions as wpstg0_woocommerce_sessions from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2019/04/28 20:24:08] DB Copy: wp_woocommerce_shipping_zone_locations as wpstg0_woocommerce_shipping_zone_locations from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_locations
+[INFO]-[2019/04/28 20:24:08] DB Copy: wp_woocommerce_shipping_zone_locations as wpstg0_woocommerce_shipping_zone_locations from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_shipping_zone_methods
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2019/04/28 20:24:08] DB Copy: wp_woocommerce_shipping_zones as wpstg0_woocommerce_shipping_zones from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_shipping_zones
+[INFO]-[2019/04/28 20:24:08] DB Copy: wp_woocommerce_shipping_zones as wpstg0_woocommerce_shipping_zones from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_tax_rate_locations
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2019/04/28 20:24:08] DB Copy: Creating table wpstg0_woocommerce_tax_rates
+[INFO]-[2019/04/28 20:24:09] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/04/28 20:24:09] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:09] DB Copy: Creating table wpstg0_yoast_seo_links
+[INFO]-[2019/04/28 20:24:09] DB Copy: wp_yoast_seo_links as wpstg0_yoast_seo_links from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:09] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/04/28 20:24:09] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[INFO]-[2019/04/28 20:24:09] DB Copy: Creating table wpstg0_yoast_seo_meta
+[INFO]-[2019/04/28 20:24:09] DB Copy: wp_yoast_seo_meta as wpstg0_yoast_seo_meta from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:09] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2019/04/28 20:24:09] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:10] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/04/28 20:24:10] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2019/04/28 20:24:10] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/04/28 20:24:10] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2019/04/28 20:24:10] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/04/28 20:24:10] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_termmeta 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_termmeta 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/04/28 20:24:11] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2019/04/28 20:24:12] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/04/28 20:24:12] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2019/04/28 20:24:12] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2019/04/28 20:24:12] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:12] DB Processing:  Table wpstg0_wc_product_meta_lookup 0 to 5000 records
+[INFO]-[2019/04/28 20:24:12] DB Processing:  Table wpstg0_wc_product_meta_lookup 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:14] DB Processing:  Table wpstg0_wfConfig 0 to 5000 records
+[INFO]-[2019/04/28 20:24:14] DB Processing:  Table wpstg0_wfConfig 0 to 5000 records
+[INFO]-[2019/04/28 20:24:14] DB Processing:  Table wpstg0_wfCrawlers 0 to 5000 records
+[INFO]-[2019/04/28 20:24:14] DB Processing:  Table wpstg0_wfCrawlers 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:14] DB Processing:  Table wpstg0_wfFileMods 0 to 5000 records
+[INFO]-[2019/04/28 20:24:14] DB Processing:  Table wpstg0_wfFileMods 0 to 5000 records
+[INFO]-[2019/04/28 20:24:15] DB Processing:  Table wpstg0_wfFileMods 5000 to 10000 records
+[INFO]-[2019/04/28 20:24:15] DB Processing:  Table wpstg0_wfFileMods 5000 to 10000 records
+[INFO]-[2019/04/28 20:24:15] DB Processing:  Table wpstg0_wfHits 0 to 5000 records
+[INFO]-[2019/04/28 20:24:15] DB Processing:  Table wpstg0_wfHits 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfIssues 0 to 5000 records
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfIssues 0 to 5000 records
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfKnownFileList 0 to 5000 records
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfKnownFileList 0 to 5000 records
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfKnownFileList 5000 to 10000 records
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfKnownFileList 5000 to 10000 records
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfLeechers 0 to 5000 records
+[INFO]-[2019/04/28 20:24:16] DB Processing:  Table wpstg0_wfLeechers 0 to 5000 records
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfLiveTrafficHuman 0 to 5000 records
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfLiveTrafficHuman 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfLocs 0 to 5000 records
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfLocs 0 to 5000 records
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfLogins 0 to 5000 records
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfLogins 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfNotifications 0 to 5000 records
+[INFO]-[2019/04/28 20:24:17] DB Processing:  Table wpstg0_wfNotifications 0 to 5000 records
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfPendingIssues 0 to 5000 records
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfPendingIssues 0 to 5000 records
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfReverseCache 0 to 5000 records
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfReverseCache 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfScanners 0 to 5000 records
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfScanners 0 to 5000 records
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfStatus 0 to 5000 records
+[INFO]-[2019/04/28 20:24:18] DB Processing:  Table wpstg0_wfStatus 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:21] DB Processing:  Table wpstg0_woocommerce_sessions 0 to 5000 records
+[INFO]-[2019/04/28 20:24:21] DB Processing:  Table wpstg0_woocommerce_sessions 0 to 5000 records
+[INFO]-[2019/04/28 20:24:21] DB Processing:  Table wpstg0_woocommerce_shipping_zone_locations 0 to 5000 records
+[INFO]-[2019/04/28 20:24:21] DB Processing:  Table wpstg0_woocommerce_shipping_zone_locations 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:21] DB Processing:  Table wpstg0_woocommerce_shipping_zones 0 to 5000 records
+[INFO]-[2019/04/28 20:24:21] DB Processing:  Table wpstg0_woocommerce_shipping_zones 0 to 5000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:22] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/04/28 20:24:22] DB Processing:  Table wpstg0_yoast_seo_links 0 to 5000 records
+[INFO]-[2019/04/28 20:24:22] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[INFO]-[2019/04/28 20:24:22] DB Processing:  Table wpstg0_yoast_seo_meta 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:24:22] Scanning / for files
+[INFO]-[2019/04/28 20:24:22] Scanning / for files
+[INFO]-[2019/04/28 20:24:23] Scanning wp-content folder /home/thenig18/public_html/wp-content
+[INFO]-[2019/04/28 20:24:23] Scanning wp-content folder /home/thenig18/public_html/wp-content
+[INFO]-[2019/04/28 20:24:23] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/04/28 20:24:23] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2019/04/28 20:24:23] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/04/28 20:24:23] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2019/04/28 20:24:24] Copying files...
+[INFO]-[2019/04/28 20:24:24] Total 50 files processed
+[INFO]-[2019/04/28 20:24:24] Copying files...
+[INFO]-[2019/04/28 20:24:24] Total 50 files processed
+[INFO]-[2019/04/28 20:24:24] Total 100 files processed
+[INFO]-[2019/04/28 20:24:24] Total 100 files processed
+[INFO]-[2019/04/28 20:24:24] Total 150 files processed
+[INFO]-[2019/04/28 20:24:24] Total 150 files processed
+[INFO]-[2019/04/28 20:24:24] Total 200 files processed
+[INFO]-[2019/04/28 20:24:24] Total 200 files processed
+[INFO]-[2019/04/28 20:24:24] Total 250 files processed
+[INFO]-[2019/04/28 20:24:24] Total 250 files processed
+[INFO]-[2019/04/28 20:24:25] Total 300 files processed
+[INFO]-[2019/04/28 20:24:25] Total 300 files processed
+[INFO]-[2019/04/28 20:24:25] Total 350 files processed
+[INFO]-[2019/04/28 20:24:25] Total 350 files processed
+[INFO]-[2019/04/28 20:24:25] Total 400 files processed
+[INFO]-[2019/04/28 20:24:25] Total 400 files processed
+[INFO]-[2019/04/28 20:24:25] Total 450 files processed
+[INFO]-[2019/04/28 20:24:25] Total 450 files processed
+[INFO]-[2019/04/28 20:24:25] Total 500 files processed
+[INFO]-[2019/04/28 20:24:25] Total 500 files processed
+[INFO]-[2019/04/28 20:24:26] Total 550 files processed
+[INFO]-[2019/04/28 20:24:26] Total 550 files processed
+[INFO]-[2019/04/28 20:24:26] Total 600 files processed
+[INFO]-[2019/04/28 20:24:26] Total 600 files processed
+[INFO]-[2019/04/28 20:24:26] Total 650 files processed
+[INFO]-[2019/04/28 20:24:26] Total 650 files processed
+[INFO]-[2019/04/28 20:24:27] Total 700 files processed
+[INFO]-[2019/04/28 20:24:27] Total 700 files processed
+[INFO]-[2019/04/28 20:24:27] Total 750 files processed
+[INFO]-[2019/04/28 20:24:27] Total 750 files processed
+[INFO]-[2019/04/28 20:24:27] Total 800 files processed
+[INFO]-[2019/04/28 20:24:27] Total 800 files processed
+[INFO]-[2019/04/28 20:24:28] Total 850 files processed
+[INFO]-[2019/04/28 20:24:28] Total 850 files processed
+[INFO]-[2019/04/28 20:24:28] Total 900 files processed
+[INFO]-[2019/04/28 20:24:28] Total 900 files processed
+[INFO]-[2019/04/28 20:24:29] Total 950 files processed
+[INFO]-[2019/04/28 20:24:29] Total 950 files processed
+[INFO]-[2019/04/28 20:24:29] Total 1000 files processed
+[INFO]-[2019/04/28 20:24:29] Total 1000 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1050 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1050 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1100 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1100 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1150 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1150 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1200 files processed
+[INFO]-[2019/04/28 20:24:30] Total 1200 files processed
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js
+[INFO]-[2019/04/28 20:24:31] Total 1250 files processed
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/handpicked-products.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-top-rated.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/products-attribute.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/featured-product.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-on-sale.js
+[INFO]-[2019/04/28 20:24:30] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-category.js
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-best-sellers.js
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/js/blocks/product-new.js
+[INFO]-[2019/04/28 20:24:31] Total 1250 files processed
+[INFO]-[2019/04/28 20:24:31] Total 1300 files processed
+[INFO]-[2019/04/28 20:24:31] Total 1300 files processed
+[INFO]-[2019/04/28 20:24:31] Total 1350 files processed
+[INFO]-[2019/04/28 20:24:31] Total 1350 files processed
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css
+[INFO]-[2019/04/28 20:24:31] Total 1400 files processed
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui-rtl.css
+[INFO]-[2019/04/28 20:24:31] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woocommerce/assets/css/jquery-ui/jquery-ui.css
+[INFO]-[2019/04/28 20:24:31] Total 1400 files processed
+[INFO]-[2019/04/28 20:24:31] Total 1450 files processed
+[INFO]-[2019/04/28 20:24:31] Total 1450 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1500 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1500 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1550 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1550 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1600 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1600 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1650 files processed
+[INFO]-[2019/04/28 20:24:32] Total 1650 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1700 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1700 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1750 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1750 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1800 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1800 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1850 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1850 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1900 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1900 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1950 files processed
+[INFO]-[2019/04/28 20:24:33] Total 1950 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2000 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2000 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2050 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2050 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2100 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2100 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2150 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2150 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2200 files processed
+[INFO]-[2019/04/28 20:24:34] Total 2200 files processed
+[INFO]-[2019/04/28 20:24:35] Total 2250 files processed
+[INFO]-[2019/04/28 20:24:35] Total 2250 files processed
+[INFO]-[2019/04/28 20:24:35] Total 2300 files processed
+[INFO]-[2019/04/28 20:24:35] Total 2300 files processed
+[INFO]-[2019/04/28 20:24:35] Total 2350 files processed
+[INFO]-[2019/04/28 20:24:35] Total 2350 files processed
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/handpicked-products.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/handpicked-products.js
+[INFO]-[2019/04/28 20:24:35] Total 2400 files processed
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/handpicked-products.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/handpicked-products.js
+[INFO]-[2019/04/28 20:24:35] Total 2400 files processed
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-top-rated.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-top-rated.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/products-attribute.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/products-attribute.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/featured-product.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/featured-product.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-on-sale.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-on-sale.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-category.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-category.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-best-sellers.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-best-sellers.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-new.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-new.js
+[INFO]-[2019/04/28 20:24:35] Total 2450 files processed
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-top-rated.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-top-rated.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/products-attribute.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/products-attribute.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/featured-product.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/featured-product.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-on-sale.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-on-sale.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-category.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-category.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-best-sellers.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-best-sellers.js
+[INFO]-[2019/04/28 20:24:35] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/woo-gutenberg-products-block/build/product-new.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/woo-gutenberg-products-block/build/product-new.js
+[INFO]-[2019/04/28 20:24:35] Total 2450 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2500 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2500 files processed
+[INFO]-[2019/04/28 20:24:36] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1100.min.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1100.min.js
+[INFO]-[2019/04/28 20:24:36] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1100.min.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/wordpress-seo/js/dist/analysis-1100.min.js
+[INFO]-[2019/04/28 20:24:36] Total 2550 files processed
+[INFO]-[2019/04/28 20:24:36] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1100.min.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/wordpress-seo/js/dist/wp-seo-analysis-worker-1100.min.js
+[INFO]-[2019/04/28 20:24:36] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/wordpress-seo/js/dist/analysis-1100.min.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/wordpress-seo/js/dist/analysis-1100.min.js
+[INFO]-[2019/04/28 20:24:36] Total 2550 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2600 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2600 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2650 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2650 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2700 files processed
+[INFO]-[2019/04/28 20:24:36] Total 2700 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2750 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2750 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2800 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2800 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2850 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2850 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2900 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2900 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2950 files processed
+[INFO]-[2019/04/28 20:24:37] Total 2950 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3000 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3000 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3050 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3050 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3100 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3100 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3150 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3150 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3200 files processed
+[INFO]-[2019/04/28 20:24:38] Total 3200 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3250 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3250 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3300 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3300 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3350 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3350 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3400 files processed
+[INFO]-[2019/04/28 20:24:39] Total 3400 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3450 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3450 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3500 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3500 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3550 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3550 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3600 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3600 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3650 files processed
+[INFO]-[2019/04/28 20:24:40] Total 3650 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3700 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3700 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3750 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3750 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3800 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3800 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3850 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3850 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3900 files processed
+[INFO]-[2019/04/28 20:24:41] Total 3900 files processed
+[INFO]-[2019/04/28 20:24:42] Total 3950 files processed
+[INFO]-[2019/04/28 20:24:42] Total 3950 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4000 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4000 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4050 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4050 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4100 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4100 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4150 files processed
+[INFO]-[2019/04/28 20:24:42] Total 4150 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4200 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4200 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4250 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4250 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4300 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4300 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4350 files processed
+[INFO]-[2019/04/28 20:24:43] Total 4350 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4400 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4400 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4450 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4450 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4500 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4500 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4550 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4550 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4600 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4600 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4650 files processed
+[INFO]-[2019/04/28 20:24:44] Total 4650 files processed
+[INFO]-[2019/04/28 20:24:45] Total 4700 files processed
+[INFO]-[2019/04/28 20:24:45] Total 4700 files processed
+[INFO]-[2019/04/28 20:24:45] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/jetpack/_inc/build/admin.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/jetpack/_inc/build/admin.js
+[INFO]-[2019/04/28 20:24:45] Total 4750 files processed
+[INFO]-[2019/04/28 20:24:45] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/jetpack/_inc/build/admin.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/jetpack/_inc/build/admin.js
+[INFO]-[2019/04/28 20:24:45] Total 4750 files processed
+[INFO]-[2019/04/28 20:24:45] Total 4800 files processed
+[INFO]-[2019/04/28 20:24:45] Total 4800 files processed
+[INFO]-[2019/04/28 20:24:45] Total 4850 files processed
+[INFO]-[2019/04/28 20:24:45] Total 4850 files processed
+[INFO]-[2019/04/28 20:24:46] Total 4900 files processed
+[INFO]-[2019/04/28 20:24:46] Total 4900 files processed
+[INFO]-[2019/04/28 20:24:46] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb
+[INFO]-[2019/04/28 20:24:46] Total 4950 files processed
+[INFO]-[2019/04/28 20:24:46] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/wordfence/lib/GeoLite2-Country.mmdb
+[INFO]-[2019/04/28 20:24:46] Total 4950 files processed
+[INFO]-[2019/04/28 20:24:46] Total 5000 files processed
+[INFO]-[2019/04/28 20:24:46] Total 5000 files processed
+[INFO]-[2019/04/28 20:24:46] Total 5050 files processed
+[INFO]-[2019/04/28 20:24:46] Total 5050 files processed
+[INFO]-[2019/04/28 20:24:46] Total 5100 files processed
+[INFO]-[2019/04/28 20:24:46] Total 5100 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5150 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5150 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5200 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5200 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5250 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5250 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5300 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5300 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5350 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5350 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5400 files processed
+[INFO]-[2019/04/28 20:24:47] Total 5400 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5450 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5450 files processed
+[INFO]-[2019/04/28 20:24:48] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js.map -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js.map
+[INFO]-[2019/04/28 20:24:48] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js
+[INFO]-[2019/04/28 20:24:48] Total 5500 files processed
+[INFO]-[2019/04/28 20:24:48] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js.map -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js.map
+[INFO]-[2019/04/28 20:24:48] Trying to copy big file: /home/thenig18/public_html/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js -> /home/thenig18/public_html/thenightbaker_v2/wp-content/plugins/sg-cachepress/assets/js/optimizer.bundle.js
+[INFO]-[2019/04/28 20:24:48] Total 5500 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5550 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5550 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5600 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5600 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5650 files processed
+[INFO]-[2019/04/28 20:24:48] Total 5650 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5700 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5700 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5750 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5750 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5800 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5800 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5850 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5850 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5900 files processed
+[INFO]-[2019/04/28 20:24:49] Total 5900 files processed
+[INFO]-[2019/04/28 20:24:50] Total 5950 files processed
+[INFO]-[2019/04/28 20:24:50] Total 5950 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6000 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6000 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6050 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6050 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6100 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6100 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6150 files processed
+[INFO]-[2019/04/28 20:24:50] Total 6150 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6200 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6200 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6250 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6250 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6300 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6300 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6350 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6350 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6400 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6400 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6450 files processed
+[INFO]-[2019/04/28 20:24:51] Total 6450 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6500 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6500 files processed
+[INFO]-[2019/04/28 20:24:52] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/GeoLite2-Country.mmdb -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/GeoLite2-Country.mmdb
+[INFO]-[2019/04/28 20:24:52] Total 6550 files processed
+[INFO]-[2019/04/28 20:24:52] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/GeoLite2-Country.mmdb -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/GeoLite2-Country.mmdb
+[INFO]-[2019/04/28 20:24:52] Total 6550 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6600 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6600 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6650 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6650 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6700 files processed
+[INFO]-[2019/04/28 20:24:52] Total 6700 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6750 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6750 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6800 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6800 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6850 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6850 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6900 files processed
+[INFO]-[2019/04/28 20:24:53] Total 6900 files processed
+[INFO]-[2019/04/28 20:24:54] Total 6950 files processed
+[INFO]-[2019/04/28 20:24:54] Total 6950 files processed
+[INFO]-[2019/04/28 20:24:55] Total 7000 files processed
+[INFO]-[2019/04/28 20:24:55] Total 7000 files processed
+[INFO]-[2019/04/28 20:24:55] Total 7050 files processed
+[INFO]-[2019/04/28 20:24:55] Total 7050 files processed
+[INFO]-[2019/04/28 20:24:55] Total 7100 files processed
+[INFO]-[2019/04/28 20:24:55] Total 7100 files processed
+[INFO]-[2019/04/28 20:24:56] Total 7150 files processed
+[INFO]-[2019/04/28 20:24:56] Total 7150 files processed
+[INFO]-[2019/04/28 20:24:56] Total 7200 files processed
+[INFO]-[2019/04/28 20:24:56] Total 7200 files processed
+[INFO]-[2019/04/28 20:24:56] Total 7250 files processed
+[INFO]-[2019/04/28 20:24:56] Total 7250 files processed
+[INFO]-[2019/04/28 20:24:57] Total 7300 files processed
+[INFO]-[2019/04/28 20:24:57] Total 7300 files processed
+[INFO]-[2019/04/28 20:24:57] Total 7350 files processed
+[INFO]-[2019/04/28 20:24:57] Total 7350 files processed
+[INFO]-[2019/04/28 20:24:58] Total 7400 files processed
+[INFO]-[2019/04/28 20:24:58] Total 7400 files processed
+[INFO]-[2019/04/28 20:24:58] Total 7450 files processed
+[INFO]-[2019/04/28 20:24:58] Total 7450 files processed
+[INFO]-[2019/04/28 20:24:58] Total 7500 files processed
+[INFO]-[2019/04/28 20:24:58] Total 7500 files processed
+[INFO]-[2019/04/28 20:24:59] Total 7550 files processed
+[INFO]-[2019/04/28 20:24:59] Total 7550 files processed
+[INFO]-[2019/04/28 20:24:59] Total 7600 files processed
+[INFO]-[2019/04/28 20:24:59] Total 7600 files processed
+[INFO]-[2019/04/28 20:25:00] Total 7650 files processed
+[INFO]-[2019/04/28 20:25:00] Total 7650 files processed
+[INFO]-[2019/04/28 20:25:00] Total 7700 files processed
+[INFO]-[2019/04/28 20:25:00] Total 7700 files processed
+[INFO]-[2019/04/28 20:25:00] Total 7750 files processed
+[INFO]-[2019/04/28 20:25:00] Total 7750 files processed
+[INFO]-[2019/04/28 20:25:01] Total 7800 files processed
+[INFO]-[2019/04/28 20:25:01] Total 7800 files processed
+[INFO]-[2019/04/28 20:25:01] Total 7850 files processed
+[INFO]-[2019/04/28 20:25:01] Total 7850 files processed
+[INFO]-[2019/04/28 20:25:02] Total 7900 files processed
+[INFO]-[2019/04/28 20:25:02] Total 7900 files processed
+[INFO]-[2019/04/28 20:25:02] Total 7950 files processed
+[INFO]-[2019/04/28 20:25:02] Total 7950 files processed
+[INFO]-[2019/04/28 20:25:03] Total 8000 files processed
+[INFO]-[2019/04/28 20:25:03] Total 8000 files processed
+[INFO]-[2019/04/28 20:25:03] Total 8050 files processed
+[INFO]-[2019/04/28 20:25:03] Total 8050 files processed
+[INFO]-[2019/04/28 20:25:04] Total 8100 files processed
+[INFO]-[2019/04/28 20:25:04] Total 8100 files processed
+[INFO]-[2019/04/28 20:25:04] Total 8150 files processed
+[INFO]-[2019/04/28 20:25:04] Total 8150 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8200 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8200 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8250 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8250 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8300 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8300 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8350 files processed
+[INFO]-[2019/04/28 20:25:05] Total 8350 files processed
+[INFO]-[2019/04/28 20:25:06] Total 8400 files processed
+[INFO]-[2019/04/28 20:25:06] Total 8400 files processed
+[INFO]-[2019/04/28 20:25:06] Total 8450 files processed
+[INFO]-[2019/04/28 20:25:06] Total 8450 files processed
+[INFO]-[2019/04/28 20:25:07] Total 8500 files processed
+[INFO]-[2019/04/28 20:25:07] Total 8500 files processed
+[INFO]-[2019/04/28 20:25:07] Total 8550 files processed
+[INFO]-[2019/04/28 20:25:07] Total 8550 files processed
+[INFO]-[2019/04/28 20:25:07] Total 8600 files processed
+[INFO]-[2019/04/28 20:25:07] Total 8600 files processed
+[INFO]-[2019/04/28 20:25:08] Total 8650 files processed
+[INFO]-[2019/04/28 20:25:08] Total 8650 files processed
+[INFO]-[2019/04/28 20:25:08] Total 8700 files processed
+[INFO]-[2019/04/28 20:25:08] Total 8700 files processed
+[INFO]-[2019/04/28 20:25:08] Total 8750 files processed
+[INFO]-[2019/04/28 20:25:08] Total 8750 files processed
+[INFO]-[2019/04/28 20:25:09] Total 8800 files processed
+[INFO]-[2019/04/28 20:25:09] Total 8800 files processed
+[INFO]-[2019/04/28 20:25:09] Total 8850 files processed
+[INFO]-[2019/04/28 20:25:09] Total 8850 files processed
+[INFO]-[2019/04/28 20:25:09] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1.png
+[INFO]-[2019/04/28 20:25:09] Total 8900 files processed
+[INFO]-[2019/04/28 20:25:09] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1.png
+[INFO]-[2019/04/28 20:25:09] Total 8900 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135908.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135908.jpg
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135908-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135908-1.jpg
+[INFO]-[2019/04/28 20:25:10] Total 8950 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135908.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135908.jpg
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135908-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135908-1.jpg
+[INFO]-[2019/04/28 20:25:10] Total 8950 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_134820.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_134820.jpg
+[INFO]-[2019/04/28 20:25:10] Total 9000 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_134820.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_134820.jpg
+[INFO]-[2019/04/28 20:25:10] Total 9000 files processed
+[INFO]-[2019/04/28 20:25:10] Total 9050 files processed
+[INFO]-[2019/04/28 20:25:10] Total 9050 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1.png
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135627.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135627.jpg
+[INFO]-[2019/04/28 20:25:10] Total 9100 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1.png
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135627.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135627.jpg
+[INFO]-[2019/04/28 20:25:10] Total 9100 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123122.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123122.jpg
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:10] Total 9150 files processed
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123122.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123122.jpg
+[INFO]-[2019/04/28 20:25:10] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:10] Total 9150 files processed
+[INFO]-[2019/04/28 20:25:11] Total 9200 files processed
+[INFO]-[2019/04/28 20:25:11] Total 9200 files processed
+[INFO]-[2019/04/28 20:25:11] Total 9250 files processed
+[INFO]-[2019/04/28 20:25:11] Total 9250 files processed
+[INFO]-[2019/04/28 20:25:11] Total 9300 files processed
+[INFO]-[2019/04/28 20:25:11] Total 9300 files processed
+[INFO]-[2019/04/28 20:25:11] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171017_142156.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171017_142156.jpg
+[INFO]-[2019/04/28 20:25:11] Total 9350 files processed
+[INFO]-[2019/04/28 20:25:11] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171017_142156.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171017_142156.jpg
+[INFO]-[2019/04/28 20:25:11] Total 9350 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_140630.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_140630.jpg
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Campfire-Smores-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Campfire-Smores-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_123130-2-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_123130-2-1.jpg
+[INFO]-[2019/04/28 20:25:12] Total 9400 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_140630.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_140630.jpg
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Red-White-and-Gooey-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Campfire-Smores-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Campfire-Smores-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_123130-2-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_123130-2-1.jpg
+[INFO]-[2019/04/28 20:25:12] Total 9400 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/smores-pull-2.mp4 -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/smores-pull-2.mp4
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Campfire-Smores-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Campfire-Smores-1.png
+[INFO]-[2019/04/28 20:25:12] Total 9450 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/smores-pull-2.mp4 -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/smores-pull-2.mp4
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Campfire-Smores-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Campfire-Smores-1.png
+[INFO]-[2019/04/28 20:25:12] Total 9450 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_181818-2.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_181818-2.jpg
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_140630-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_140630-1.jpg
+[INFO]-[2019/04/28 20:25:12] Total 9500 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_181818-2.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_181818-2.jpg
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_140630-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_140630-1.jpg
+[INFO]-[2019/04/28 20:25:12] Total 9500 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/cookie-pile.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/cookie-pile.jpg
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135924.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135924.jpg
+[INFO]-[2019/04/28 20:25:12] Total 9550 files processed
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/cookie-pile.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/cookie-pile.jpg
+[INFO]-[2019/04/28 20:25:12] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135924.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135924.jpg
+[INFO]-[2019/04/28 20:25:12] Total 9550 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135843.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135843.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_134009.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_134009.jpg
+[INFO]-[2019/04/28 20:25:13] Total 9600 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_135843.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_135843.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1-2000x1200.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-Caffeine-Fix-1-2000x1200.png
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_134009.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_134009.jpg
+[INFO]-[2019/04/28 20:25:13] Total 9600 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_134618.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_134618.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_134618-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_134618-1.jpg
+[INFO]-[2019/04/28 20:25:13] Skipping big file: /home/thenig18/public_html/wp-content/uploads/2017/10/smores-pull.mp4
+[INFO]-[2019/04/28 20:25:13] Total 9650 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_134618.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_134618.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_134618-1.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_134618-1.jpg
+[INFO]-[2019/04/28 20:25:13] Skipping big file: /home/thenig18/public_html/wp-content/uploads/2017/10/smores-pull.mp4
+[INFO]-[2019/04/28 20:25:13] Total 9650 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123150-e1508124219596.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123150-e1508124219596.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1.png
+[INFO]-[2019/04/28 20:25:13] Total 9700 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123150-e1508124219596.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123150-e1508124219596.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1.png -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/TNB-The-Chunky-Classic-1.png
+[INFO]-[2019/04/28 20:25:13] Total 9700 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_123130-2.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_123130-2.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_181818.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_181818.jpg
+[INFO]-[2019/04/28 20:25:13] Total 9750 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171018_123130-2.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171018_123130-2.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171005_181818.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171005_181818.jpg
+[INFO]-[2019/04/28 20:25:13] Total 9750 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123122-e1508124194192.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123122-e1508124194192.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/dough.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/dough.jpg
+[INFO]-[2019/04/28 20:25:13] Total 9800 files processed
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123122-e1508124194192.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123122-e1508124194192.jpg
+[INFO]-[2019/04/28 20:25:13] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/dough.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/dough.jpg
+[INFO]-[2019/04/28 20:25:13] Total 9800 files processed
+[INFO]-[2019/04/28 20:25:14] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123150.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123150.jpg
+[INFO]-[2019/04/28 20:25:14] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/IMG_20160319_154904.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/IMG_20160319_154904.jpg
+[INFO]-[2019/04/28 20:25:14] Total 9850 files processed
+[INFO]-[2019/04/28 20:25:14] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/20171007_123150.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/20171007_123150.jpg
+[INFO]-[2019/04/28 20:25:14] Trying to copy big file: /home/thenig18/public_html/wp-content/uploads/2017/10/IMG_20160319_154904.jpg -> /home/thenig18/public_html/thenightbaker_v2/wp-content/uploads/2017/10/IMG_20160319_154904.jpg
+[INFO]-[2019/04/28 20:25:14] Total 9850 files processed
+[INFO]-[2019/04/28 20:25:14] Trying to copy big file: /home/thenig18/public_html/wp-content/wflogs/GeoLite2-Country.mmdb -> /home/thenig18/public_html/thenightbaker_v2/wp-content/wflogs/GeoLite2-Country.mmdb
+[INFO]-[2019/04/28 20:25:14] Total 9900 files processed
+[INFO]-[2019/04/28 20:25:14] Trying to copy big file: /home/thenig18/public_html/wp-content/wflogs/GeoLite2-Country.mmdb -> /home/thenig18/public_html/thenightbaker_v2/wp-content/wflogs/GeoLite2-Country.mmdb
+[INFO]-[2019/04/28 20:25:14] Total 9900 files processed
+[INFO]-[2019/04/28 20:25:14] Total 9950 files processed
+[INFO]-[2019/04/28 20:25:14] Total 9950 files processed
+[INFO]-[2019/04/28 20:25:14] Total 10000 files processed
+[INFO]-[2019/04/28 20:25:14] Total 10000 files processed
+[INFO]-[2019/04/28 20:25:14] Total 10050 files processed
+[INFO]-[2019/04/28 20:25:14] Total 10050 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10100 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10100 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10150 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10150 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10200 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10200 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10250 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10250 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10300 files processed
+[INFO]-[2019/04/28 20:25:15] Total 10300 files processed
+[INFO]-[2019/04/28 20:25:16] Total 10350 files processed
+[INFO]-[2019/04/28 20:25:16] Total 10350 files processed
+[INFO]-[2019/04/28 20:25:16] Total 10400 files processed
+[INFO]-[2019/04/28 20:25:16] Total 10400 files processed
+[INFO]-[2019/04/28 20:25:17] Total 10450 files processed
+[INFO]-[2019/04/28 20:25:17] Total 10450 files processed
+[INFO]-[2019/04/28 20:25:17] Total 10500 files processed
+[INFO]-[2019/04/28 20:25:17] Total 10500 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10550 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10550 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10600 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10600 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10650 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10650 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10700 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10700 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10750 files processed
+[INFO]-[2019/04/28 20:25:18] Total 10750 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10800 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10800 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10850 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10850 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10900 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10900 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10950 files processed
+[INFO]-[2019/04/28 20:25:19] Total 10950 files processed
+[INFO]-[2019/04/28 20:25:19] Total 11000 files processed
+[INFO]-[2019/04/28 20:25:19] Total 11000 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11050 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11050 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11100 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11100 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11150 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11150 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11200 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11200 files processed
+[INFO]-[2019/04/28 20:25:20] Skipping big file: /home/thenig18/public_html/wp-admin/core.52922
+[INFO]-[2019/04/28 20:25:20] Total 11250 files processed
+[INFO]-[2019/04/28 20:25:20] Skipping big file: /home/thenig18/public_html/wp-admin/core.52922
+[INFO]-[2019/04/28 20:25:20] Total 11250 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11300 files processed
+[INFO]-[2019/04/28 20:25:20] Total 11300 files processed
+[INFO]-[2019/04/28 20:25:21] Total 11350 files processed
+[INFO]-[2019/04/28 20:25:21] Total 11350 files processed
+[WARNING]-[2019/04/28 20:25:21] File doesn't exist /home/thenig18/public_html/
+[WARNING]-[2019/04/28 20:25:21] File doesn't exist /home/thenig18/public_html/
+[INFO]-[2019/04/28 20:25:21] Copying files finished
+[INFO]-[2019/04/28 20:25:21] Copying files finished
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step0: Skip it
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step0: Copy wp-config.php file
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step0: Skip it
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step1: Updating siteurl and homeurl to https://thenightbaker.com/thenightbaker_v2
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2019/04/28 20:25:21] Preparing Data Step1: Updating siteurl and homeurl to https://thenightbaker.com/thenightbaker_v2
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step2: Successfull
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step2: Successfull
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step5: Updating table_prefix in /home/thenig18/public_html/thenightbaker_v2/wp-config.php to wpstg0_
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step5: Updating table_prefix in /home/thenig18/public_html/thenightbaker_v2/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/04/28 20:25:22] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/04/28 20:25:22] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2019/04/28 20:25:22] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2019/04/28 20:25:23] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/04/28 20:25:23] Preparing Data Step8: Finished successfully
+[INFO]-[2019/04/28 20:25:23] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2019/04/28 20:25:23] Preparing Data Step8: Finished successfully
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step9: Finished successfully
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step9: Finished successfully
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://thenightbaker.com/thenightbaker_v2
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step10: Updating WP_HOME in wp-config.php to https://thenightbaker.com/thenightbaker_v2
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:25] Preparing Data Step 10: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://thenightbaker.com/thenightbaker_v2
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to https://thenightbaker.com/thenightbaker_v2
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 11: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 12: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step13: Skipped
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step13: Skipped
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 14: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step15: Set WP_CONTENT_DIR in wp-config.php to false
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step15: WP_CONTENT_DIR not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:26] Preparing Data Step 15: Finished successfully
+[INFO]-[2019/04/28 20:25:27] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/04/28 20:25:27] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:27] Preparing Data Step 16: Finished successfully
+[INFO]-[2019/04/28 20:25:27] Preparing Data Step16: Set WP_CONTENT_URL in wp-config.php to false
+[INFO]-[2019/04/28 20:25:27] Preparing Data Step16: WP_CONTENT_URL not defined in wp-config.php. Skipping this step.
+[INFO]-[2019/04/28 20:25:27] Preparing Data Step 16: Finished successfully
+[]-[] 
+[]-[] 
+[INFO]-[2019/04/28 20:25:27] Finish: Deleting clone job's cache files...
+[INFO]-[2019/04/28 20:25:27] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/04/28 20:25:27] Finish: Verifying existing clones...
+[INFO]-[2019/04/28 20:25:27] Finish: TheNightBaker_V2's clone job's data is not in database, generating data
+[INFO]-[2019/04/28 20:25:27] Finish: Deleting clone job's cache files...
+[INFO]-[2019/04/28 20:25:27] Finish: Clone job's cache files have been deleted!
+[INFO]-[2019/04/28 20:25:27] Finish: Verifying existing clones...
+[INFO]-[2019/04/28 20:25:27] Finish: TheNightBaker_V2's clone job's data is not in database, generating data

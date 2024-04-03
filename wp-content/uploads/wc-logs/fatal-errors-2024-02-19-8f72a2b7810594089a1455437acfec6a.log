@@ -1,0 +1,4 @@
+2024-02-19T00:50:53+00:00 CRITICAL Cannot redeclare tnb_clear_session_on_logout() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:2) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 53
+
+2024-02-19T00:51:08+00:00 CRITICAL Cannot redeclare tnb_clear_session_on_logout() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:2) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 53
+

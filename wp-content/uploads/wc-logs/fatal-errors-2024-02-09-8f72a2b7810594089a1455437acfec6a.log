@@ -1,0 +1,232 @@
+2024-02-09T01:26:58+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:26:58+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:29:26+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:29:47+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:29:47+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:30:07+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:30:23+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:30:53+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:30:56+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:30:56+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:31:13+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:31:53+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:32:32+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:32:32+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:33:59+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:34:07+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:34:07+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:09+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:18+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:18+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:25+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:27+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:32+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:41+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:35:55+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:36:13+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:36:13+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:36:41+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-09T01:36:41+00:00 CRITICAL Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'email' cannot be null in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(33): PDOStatement->execute(Array)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(63): createUser(NULL, NULL, Object(PDO))
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(663): Code_Snippets\execute_snippet('// Database cre...', 13)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(324): Code_Snippets\e in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+

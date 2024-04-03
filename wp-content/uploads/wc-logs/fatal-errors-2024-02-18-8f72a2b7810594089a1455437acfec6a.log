@@ -1,0 +1,16 @@
+2024-02-18T05:22:46+00:00 CRITICAL syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 164
+
+2024-02-18T05:22:49+00:00 CRITICAL syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 164
+
+2024-02-18T05:22:54+00:00 CRITICAL syntax error, unexpected 'catch' (T_CATCH) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 164
+
+2024-02-18T06:00:51+00:00 CRITICAL Cannot redeclare display_products() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:13) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 92
+
+2024-02-18T20:24:59+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 50
+
+2024-02-18T23:03:08+00:00 CRITICAL Cannot redeclare update_user_details_callback() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:3) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 50
+
+2024-02-18T23:03:11+00:00 CRITICAL Cannot redeclare update_user_details_callback() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:3) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 50
+
+2024-02-18T23:03:41+00:00 CRITICAL Cannot redeclare update_user_details_callback() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:3) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 50
+

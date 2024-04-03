@@ -1,0 +1,28 @@
+2024-03-21T03:37:54+00:00 CRITICAL Uncaught Error: Call to undefined function encrypt_MPIN() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:32
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element- in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 32
+
+2024-03-21T03:40:13+00:00 CRITICAL Uncaught Error: Call to undefined function encrypt_MPIN() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:32
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_Element- in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 32
+
+2024-03-21T05:23:30+00:00 CRITICAL require_once(): Failed opening required '/home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/wp-load.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 4
+
+2024-03-21T05:23:32+00:00 CRITICAL require_once(): Failed opening required '/home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/wp-load.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 4
+
+2024-03-21T05:25:57+00:00 CRITICAL require_once(): Failed opening required '/home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/wp-load.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 4
+
+2024-03-21T05:25:59+00:00 CRITICAL require_once(): Failed opening required '/home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/wp-load.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 4
+
+2024-03-21T05:26:11+00:00 CRITICAL require_once(): Failed opening required '/home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/wp-load.php' (include_path='.:/usr/local/php74/pear') in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 4
+

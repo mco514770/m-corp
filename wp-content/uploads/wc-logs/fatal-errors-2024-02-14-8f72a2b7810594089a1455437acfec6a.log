@@ -1,0 +1,9 @@
+2024-02-14T17:31:05+00:00 CRITICAL Uncaught Error: Call to undefined function wp_loyalty_rewards() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:17
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_El in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 17
+

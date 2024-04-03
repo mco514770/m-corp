@@ -1,0 +1,20 @@
+2024-03-28T03:44:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_login_redirect_after_login(), 1 passed in /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php on line 326 and exactly 2 expected in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:9
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(326): custom_login_redirect_after_login('thenightbakerad...')
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/user.php(121): do_action('wp_login', 'thenightbakerad...', Object(WP_User))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code- in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 9
+
+2024-03-28T03:44:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function custom_login_redirect_after_login(), 1 passed in /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php on line 326 and exactly 2 expected in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:9
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(326): custom_login_redirect_after_login('thenightbakerad...')
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/user.php(121): do_action('wp_login', 'thenightbakerad...', Object(WP_User))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code- in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 9
+
+2024-03-28T04:13:27+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 123
+
+2024-03-28T04:13:36+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 123
+

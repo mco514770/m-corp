@@ -1,0 +1,74 @@
+2024-02-13T04:02:11+00:00 CRITICAL Uncaught Error: Call to undefined function generate_rewards_id() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:25
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_E in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 25
+
+2024-02-13T04:06:49+00:00 CRITICAL Uncaught Error: Call to undefined function generate_rewards_id() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:23
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_E in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 23
+
+2024-02-13T04:06:59+00:00 CRITICAL Uncaught Error: Call to undefined function generate_rewards_id() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:23
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_E in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 23
+
+2024-02-13T04:07:27+00:00 CRITICAL Uncaught Error: Call to undefined function generate_rewards_id() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:23
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_E in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 23
+
+2024-02-13T04:10:42+00:00 CRITICAL Uncaught Error: Call to undefined function generate_rewards_id() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:23
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_E in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 23
+
+2024-02-13T04:13:44+00:00 CRITICAL Uncaught Error: Call to undefined function generate_rewards_id() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:23
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(2231): do_shortcode('[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): ET_Builder_E in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 23
+
+2024-02-13T06:31:23+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:32:00+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:32:02+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:32:03+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:32:04+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:32:05+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:32:23+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:36:27+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:36:30+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+
+2024-02-13T06:36:31+00:00 CRITICAL syntax error, unexpected '<' in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 27
+

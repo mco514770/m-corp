@@ -1,0 +1,61 @@
+2024-02-15T18:38:59+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\OrderRefund::get_billing_phone() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:35
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(76): allocate_points_for_order(11265)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(470): Code_Snippets\execute_snippet('\n// Make sure t...', 18, true)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(510): Code_Snippets\test_snippet_code(Object(Code_Snippets\Snippet))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-sni in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 35
+
+2024-02-15T18:39:16+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\OrderRefund::get_billing_phone() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:34
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(75): allocate_points_for_order(11265)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(470): Code_Snippets\execute_snippet('// Make sure to...', 18, true)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(510): Code_Snippets\test_snippet_code(Object(Code_Snippets\Snippet))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snip in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 34
+
+2024-02-15T18:40:01+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\OrderRefund::get_billing_phone() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(74): allocate_points_for_order(11265)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(470): Code_Snippets\execute_snippet('require_once('w...', 18, true)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(510): Code_Snippets\test_snippet_code(Object(Code_Snippets\Snippet))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snip in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-15T18:41:12+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\OrderRefund::get_billing_phone() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(74): allocate_points_for_order(11265)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(470): Code_Snippets\execute_snippet('require_once('w...', 18, true)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(510): Code_Snippets\test_snippet_code(Object(Code_Snippets\Snippet))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snip in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-15T18:42:24+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\OrderRefund::get_billing_phone() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:33
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(74): allocate_points_for_order(11265)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(470): Code_Snippets\execute_snippet('require_once('w...', 18, true)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(510): Code_Snippets\test_snippet_code(Object(Code_Snippets\Snippet))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snip in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 33
+
+2024-02-15T18:42:29+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\OrderRefund::get_billing_phone() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code:31
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code(72): allocate_points_for_order(11265)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582): eval()
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(470): Code_Snippets\execute_snippet('function find_c...', 18, true)
+#3 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(510): Code_Snippets\test_snippet_code(Object(Code_Snippets\Snippet))
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snip in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(582) : eval()'d code on line 31
+
+2024-02-15T18:49:26+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\WooCommerce\Admin\Overrides\OrderRefund::get_billing_phone() in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:35
+Stack trace:
+#0 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code(76): allocate_points_for_order(11265)
+#1 /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100): eval()
+#2 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(433): xyz_ips_display_content(Array, '', 'xyz-ips')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /home/customer/www/staging11.thenightbaker.com/public_html/wp-includes/shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(xyz\\-i...', 'do_shortcode_ta...', '[xyz-ips snippe...')
+#5 /home/customer/www/staging11.thenightbaker. in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 35
+
+2024-02-15T18:49:48+00:00 CRITICAL Cannot redeclare dynamic_product_gallery_shortcode() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:4) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 3
+
+2024-02-15T18:50:30+00:00 CRITICAL Cannot redeclare assign_loyalty_points() (previously declared in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code:5) in /home/customer/www/staging11.thenightbaker.com/public_html/wp-content/plugins/insert-php-code-snippet/shortcode-handler.php(100) : eval()'d code on line 5
+
